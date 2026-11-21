@@ -13,4 +13,4 @@ The live environment used by actual users.
 
 Development -> Staging -> Production
 
-Not every project requires all three environments. Smaller projects may deploy directly to production after review and testing.
+Not every project requires all three environments. Smaller projects may deploy directly to production after review and testing
